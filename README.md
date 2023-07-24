@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yadus1111
+- 👋 Hi, I’m Yadu Sharma 
 - 👀 I’m interested in Data Science/Data Analytics 
 - 🌱 I’m currently learning SQL and Python 
 - 💞️ I’m looking to collaborate on project portfolio for data analyst  
