@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Yadu Sharma 
 - 👀 I’m interested in Data Science/Data Analytics 
 - 🌱 I’m currently learning SQL and Python 
-- 💞️ I’m looking to collaborate on project portfolio for data analyst  
+- 💞️ I’m looking to collaborate on project portfolio for data Science  
 - 📫 you can reach me on linkedin linkedin.com/in/yadu-sharma 
  
 <!---
